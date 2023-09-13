@@ -1,0 +1,12 @@
+links for continuation the aplication
+
+-tutorial---
+https://codelabs.developers.google.com/codelabs/dialogflow-flutter#3
+
+-AI sobre audio---
+https://console.cloud.google.com/iam-admin/serviceaccounts/details/116675966951233628494;edit=true/keys?project=yourname-dialogflow-rbfj
+
+and
+
+https://dialogflow.cloud.google.com/#/editAgent/yourname-dialogflow-rbfj/
+
